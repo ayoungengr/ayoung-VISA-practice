@@ -1,0 +1,6 @@
+Goals
+
+1. Demonstrate on/off, V set, I set control of SCPI PS through a passive load
+2. Demonstrate CC charge and discharge of an 18650 cell with specified V cutoffs
+3. Demonstrate CCCV charging and discharging of an 18650 cell
+4. Demonstrate data logging from the PS, if possible, or from an independent meter if not possible
